@@ -28,3 +28,4 @@ packages/
 ```
 
 Built with ❤️ using [Turborepo](https://turbo.build/).
+# genius-qr-code
